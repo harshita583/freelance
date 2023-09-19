@@ -2,7 +2,6 @@ import { Button } from '@material-ui/core';
 import './App.css';
 import Grid from '@material-ui/core/Grid';
 import Container from '@material-ui/core/Container';
-import { styled } from '@mui/material/styles';
 import heroImage from '../src/hero.svg'
 import Box from '@material-ui/core/Box';
 import me from '../src/me.svg';
