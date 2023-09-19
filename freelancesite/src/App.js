@@ -6,7 +6,6 @@ import Services from './Services';
 import Price from './Price';
 import Process from './Process';
 import Footer from './footer';
-import { Container, useMediaQuery } from '@mui/material';
 import Processcomponent from './Processcomponent'
 
 function App() {

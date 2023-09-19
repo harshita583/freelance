@@ -1,9 +1,7 @@
 import React from 'react'; // Add any other necessary import statements
-import { Button } from '@material-ui/core';
 import './App.css';
 import Grid from '@material-ui/core/Grid';
 import Container from '@material-ui/core/Container';
-import Box from '@material-ui/core/Box';
 import one from '../src/one.svg';
 import two from '../src/two.svg';
 import three from '../src/three.svg';

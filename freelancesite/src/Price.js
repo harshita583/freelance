@@ -1,4 +1,6 @@
-import { Grid, Box, useMediaQuery } from '@mui/material';
+import Grid  from '@mui/material/Grid';
+import Box from '@mui/material/Box';
+import useMediaQuery from '@mui/material/useMediaQuery';
 import payment from '../src/payment.svg';
 
 function Price() {

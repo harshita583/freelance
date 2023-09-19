@@ -1,4 +1,6 @@
-import { Grid, Container, Box, useMediaQuery } from '@mui/material';
+import Grid from '@mui/material/Grid';
+import Box  from '@mui/material/Box';
+import useMediaQuery from '@mui/material/useMediaQuery';
 import notion1 from '../src/notion1.svg';
 import notion2 from '../src/notion2.svg';
 import notion3 from '../src/notion3.svg';

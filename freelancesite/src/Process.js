@@ -1,11 +1,7 @@
-import { Button } from '@material-ui/core';
 import './App.css';
 import Grid from '@material-ui/core/Grid';
 import Container from '@material-ui/core/Container';
-import heroImage from '../src/hero.svg'
 import Box from '@material-ui/core/Box';
-import me from '../src/me.svg';
-import interviews from '../src/interviews.svg';
 import processImg from '../src/processImg.svg'
 
 const isSmallScreen = window.innerWidth <= 600;

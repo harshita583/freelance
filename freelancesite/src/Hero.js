@@ -1,4 +1,5 @@
-import { Button, useMediaQuery } from '@mui/material';
+import Button from '@mui/material/Button';
+import useMediaQuery from '@mui/material/useMediaQuery';
 import Grid from '@mui/material/Grid';
 import Box from '@mui/material/Box';
 import heroImage from './hero.svg';

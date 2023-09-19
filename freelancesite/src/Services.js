@@ -1,5 +1,6 @@
-import { Grid, Box, useMediaQuery } from '@mui/material';
-import serviceImg from '../src/serviceImg.svg';
+import Grid from '@mui/material/Grid';
+import  Box from '@mui/material/Box';
+import useMediaQuery from '@mui/material/useMediaQuery';
 
 function Services() {
   const isSmallScreen = useMediaQuery('(max-width:600px)'); // Define your breakpoint for small screens
