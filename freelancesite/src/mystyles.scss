@@ -1,0 +1,13 @@
+// 1. Import the initial variables
+// @import "../node_modules/sass/utilities/initial-variables";
+
+@import "../sass/utilities/initial-variables";
+@import "../sass/utilities/functions";
+
+// 2. Set your own initial variables (optional)
+$pink: #ffb3b3;
+
+
+// 3. Set the derived variables
+// Use the new pink as the primary color
+$primary: $pink;
