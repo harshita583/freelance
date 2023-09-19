@@ -1,7 +1,7 @@
 import './App.css';
-import Grid from '@material-ui/core/Grid';
-import Container from '@material-ui/core/Container';
-import Box from '@material-ui/core/Box';
+import Grid from '@mui/material/Grid';
+import Container from '@mui/material/Container';
+import Box from '@mui/material/Box';
 import processImg from '../src/processImg.svg'
 
 const isSmallScreen = window.innerWidth <= 600;

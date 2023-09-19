@@ -4,7 +4,6 @@ import Hero from './Hero';
 import Whoami from './Whoami';
 import Services from './Services';
 import Price from './Price';
-import Process from './Process';
 import Footer from './footer';
 import Processcomponent from './Processcomponent'
 
